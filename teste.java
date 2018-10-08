@@ -8,6 +8,8 @@ public class Teste{
         System.out.printLn(" RA: 31728587");
 	System.out.printLn(" Marcela Alessandra Rodrigues ");
         System.out.printLn(" RA: 31722084 ");
+	                     System.out.printLn(" Leandro Garcia da Silva  ");
+                                   System.out.printLn(" RA:31722149");
     }
 }
 ..
